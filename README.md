@@ -15,10 +15,10 @@
 <img align="right" src="https://github.com/GuilhermeAdias/GuilhermeAdias/blob/master/Assets/img/code-hard-very-very.gif"/>
 
 - **Back-End Programming**
-- C# ❤️
-- ASP Net Core 💜
-- C++ 💙
-- Some Java 💛
+  - C# ❤️
+  - ASP Net Core 💜
+  - C++ 💙
+  - Some Java 💛
 <br/>
 
 - **Web Development**
