@@ -24,7 +24,8 @@
     - React.Native with Expo :electron:
     - Angular :a:
     - Bootstrap :white_check_mark:
-    
+  <br/>
+<br/>  
 - **Documentation**
 
 <code><a href="https://angular.io/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"></a></code>
