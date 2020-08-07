@@ -84,10 +84,8 @@
 
 <br/>
 
-<p align="center">
-	
-### `We're made of star stuff. We are a way for the cosmos to know itself`- _Carl Sagan_
-
+<p align="center">	
+	<strong>We're made of star stuff. We are a way for the cosmos to know itself`- _Carl Sagan_</strong>
 </p>
 
 <br/>
