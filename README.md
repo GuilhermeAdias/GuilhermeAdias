@@ -7,6 +7,9 @@
 <em>I am studying the 4th period in Information and Communication Technology at <a href="http://www.faeterj-petropolis.edu.br/site/"><b>Faculty of Technological Education of the State of Rio de Janeiro - Petrópolis</b></a>. I have always been passionate about technology💜 and the internet of things (IoT), so I chose to continue in the world of development💚 and programming <img src="https://github.com/GuilhermeAdias/GuilhermeAdias/blob/master/Assets/PC.gif" height="20px"/>, and given me the curiosity to learn more and more. In 2019 it was the year that I started to really enter the world of programming, I participated in the <a href="http://serratec.org/residencia-de-software/"><b>Residência de Software</b></a> program<img src="https://github.com/GuilhermeAdias/GuilhermeAdias/blob/master/Assets/Rocket.gif" height="20px"/>, which aimed to train new professionals** for the development area in the mountainous region of Rio de Janeiro**🧠</em>
  <br/>
  
+<details>
+  <summary><i> Click <b> Here </b> to enter the Warp Speed and know more about my universe! </i></summary> 
+	  
 ## Ask me about :computer: 
 
 <img align="right" src="https://github.com/GuilhermeAdias/GuilhermeAdias/blob/master/Assets/img/code-hard-very-very.gif"/>
@@ -47,6 +50,8 @@
 <br/>
 
 
+</details>
+
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=GuilhermeAdias&show_icons=true&theme=tokyonight" alt="Pramod's Github Stats">
 </p>  
@@ -76,5 +81,7 @@
   <br/>
   Thanks for stopping by 😁<br/>
 </p>
+
+### `We're made of star stuff. We are a way for the cosmos to know itself`- _Carl Sagan_
 
 <p align="center"><img alt="Profile Hits" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGuilhermeAdias%2Fhit-counter" /></p>
