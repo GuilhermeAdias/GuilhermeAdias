@@ -2,7 +2,7 @@
 **GuilhermeAdias/GuilhermeAdias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 <p align="center">
-<img src="https://github.com/GuilhermeAdias/GuilhermeAdias/blob/master/Assets/img/octocat-main.png" width="280px">
+<img src="https://github.com/GuilhermeAdias/GuilhermeAdias/blob/master/Assets/img/octocat-main.png" width="250px">
 </p>
 
 ### Hello<img src="https://github.com/GuilhermeAdias/GuilhermeAdias/blob/master/Assets/Hi.gif" width="29px">world!&nbsp;<img src="https://github.com/GuilhermeAdias/GuilhermeAdias/blob/master/Assets/Earth.gif" width="24px"> 
@@ -10,37 +10,38 @@
  <br/>
  
 ## Ask me about :computer: 
-- **Competitive Programming**
-	- Python ❤️
+- **Back-End Programming**
+	- C# ❤️
 	- C++
 	- Some Java
 
-<img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
+<img align="right" src="https://github.com/GuilhermeAdias/GuilhermeAdias/blob/master/Assets/img/code-hard-very-very.gif"/>
 
 - **Web Development**
-	- HTML, CSS and Javascript :white_check_mark:
-	- Bootstrap
-	- React with Redux :electron:
-	- MonogoDB
-  - Express
-  - NodeJS  
-- **Shell Scripting**
+    - HTML, CSS and Javascript :white_check_mark:
+    - NodeJS  :white_check_mark:
+    - React.Js with Redux :electron:
+    - React.Native with Expo :electron:
+    - Angular :a:
+    - Bootstrap :white_check_mark:
+    
+- **Documentation**
 
-
-<code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
-<code><a href="https://www.linux.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></a></code>
+<code><a href="https://angular.io/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"></a></code>
 <code><a href="https://reactjs.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></a></code>
-<code><a href="https://www.docker.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-official.svg"></a></code>
-<br/><br/>
+<code><a href="https://nodejs.org/en/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"></a></code>
+<code><a href="https://docs.microsoft.com/pt-br/dotnet/csharp/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-vertical.svg"></a></code>
+<br/>
+<br/>
 
 ## 🌱 I’m currently learning ...
-- **Data Science**
-- **AI**
+
+- **Azure Funtions**
+- **React.js and React Native**
+- **Scrum Fundamentals**
+
 <br/>
-  <br/>
-
-
-
+<br/>
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=rajput2107&&show_icons=true&theme=radical" alt="Pramod's Github Stats">
 </p>  
