@@ -8,7 +8,7 @@
  <br/>
  
 <details>
-  <summary><i> Click <b> Here </b> to enter the Warp Speed and know more about my universe! </i></summary> 
+  <summary><i> Click <b> Here </b> to enter the Warp Drive and know more about my universe! </i></summary> 
 	  
 ## Ask me about :computer: 
 
