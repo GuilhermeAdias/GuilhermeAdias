@@ -65,11 +65,11 @@
   <img align="center" alt="Guilherme's LinkedIn" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /> &nbsp; &nbsp;
  </a>
 
- <a href="https://www.instagram.com/guiabranchesd6/" target="blank">
+ <a href="https://www.instagram.com/gui_heisenbergd20" target="blank">
   <img align="center" alt="Guilherme's Instagram" width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" /> &nbsp; &nbsp;
  </a>
 
- <a href="https://twitter.com/gui_phillips" target="blank">
+ <a href="https://twitter.com/gui_heisenberg" target="blank">
   <img align="center" alt="Guilherme's Twitter" width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" /> &nbsp; &nbsp;
  </a>
 
