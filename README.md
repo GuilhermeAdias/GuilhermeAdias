@@ -16,17 +16,16 @@
 
 - **Back-End Programming**
   - C# ❤️
-  - ASP Net Core 💜
-  - C++ 💙
+  - .NET 💜
+  - Node.Js 💙
   - Some Java 💛
 <br/>
 
 - **Web Development**
     - HTML, CSS and Javascript :dart:
-    - NodeJS  :white_check_mark:
-    - React.Js with Redux :electron:
-    - React.Native with Expo :electron:
     - Angular :a:
+    - Node.Js  :white_check_mark:
+    - React.Js :electron:
     - Bootstrap :purple_heart:
 <br/>
 
@@ -42,9 +41,9 @@
 
 ## 💡 I’m currently learning ...
 
-- **Azure Funtions**
-- **React.js and React Native**
-- **Scrum Fundamentals**
+- **.Net 5**
+- **Angular 12**
+- **SOLID principles**
 
 <br/>
 <br/>
@@ -79,7 +78,8 @@
 
   <br/>
   <br/>
-  Thanks for stopping by 😁👌<br/>
+  <br/>
+  <br/>
 </p>
 
 <br/>
