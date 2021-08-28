@@ -1,40 +1,39 @@
 <!-- ### Hi there 👋
 **GuilhermeAdias/GuilhermeAdias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-<p align="center"><img src="https://github.com/GuilhermeAdias/GuilhermeAdias/blob/master/Assets/img/octocat-no-heat.png" width="250px" style="text-align:center"></p>
-
 ### Hello<img src="https://github.com/GuilhermeAdias/GuilhermeAdias/blob/master/Assets/Hi.gif" width="29px">  world!&nbsp;<img src="https://github.com/GuilhermeAdias/GuilhermeAdias/blob/master/Assets/Earth.gif" width="24px"> 
-<em>I am studying the 4th period in Information and Communication Technology at <a href="http://www.faeterj-petropolis.edu.br/site/"><b>Faculty of Technological Education of the State of Rio de Janeiro - Petrópolis</b></a>. I have always been passionate about technology💜 and the internet of things (IoT), so I chose to continue in the world of development💚 and programming <img src="https://github.com/GuilhermeAdias/GuilhermeAdias/blob/master/Assets/PC.gif" height="20px"/>, and given me the curiosity to learn more and more. In 2019 it was the year that I started to really enter the world of programming, I participated in the <a href="http://serratec.org/residencia-de-software/"><b>Residência de Software</b></a> program<img src="https://github.com/GuilhermeAdias/GuilhermeAdias/blob/master/Assets/Rocket.gif" height="20px"/>, which aimed to train new professionals🧠 for the development area in the mountainous region of Rio de Janeiro.</em>
- <br/>
- 
-<details>
-  <summary><i> Click <b> Here </b> to enter the Warp Drive and know more about my universe! </i></summary> 
+
+
+<p align="left">
+	<em> I'm studying Information and Communication Technology at the <a href="http://www.faeterj-petropolis.edu.br/site/"><b>Faculty of Technological Education of the State of Rio de Janeiro - Petrópolis</b></a>. I've always been passionate about technology💜 and the internet of things (IoT), so I chose to stay in the world of development💚 and programming. In 2019 I participated in the <a href="http://serratec.org/residencia-de-software/"><b>Residência de Software</b></a> program <img src="https://github.com/GuilhermeAdias/GuilhermeAdias/blob/master/Assets/Rocket.gif" height="20px"/>, which aims to train new professionals for the development area in the mountainous region of Rio de Janeiro.</em>
+
+<br/>
 	  
 ## Ask me about :computer: 
 
 <img align="right" src="https://github.com/GuilhermeAdias/GuilhermeAdias/blob/master/Assets/img/code-hard-very-very.gif"/>
 
-- **Back-End Programming**
-  - C# ❤️
-  - .NET 💜
-  - Node.Js 💙
-  - Some Java 💛
+- **Back-End Development**
+  - .NET C# 💜
+  - Azure 💙 
+  - Node.Js ✳️
+  - Some Java ☕
 <br/>
 
 - **Web Development**
-    - HTML, CSS and Javascript :dart:
+    - HTML, CSS and Javascript 💛
     - Angular :a:
-    - Node.Js  :white_check_mark:
     - React.Js :electron:
     - Bootstrap :purple_heart:
 <br/>
 
 - **Documentation**
 
+<code><a href="https://dotnet.microsoft.com/" target="_blank"><img height="40" src="https://cdn.worldvectorlogo.com/logos/dot-net-core-7.svg"></a></code>
+<code><a href="https://docs.microsoft.com/pt-br/azure/?product=featured" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg"></a></code>	
 <code><a href="https://angular.io/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"></a></code>
+<code><a href="https://nodejs.org/en/" target="_blank"><img height="48" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"></a></code>	
 <code><a href="https://reactjs.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></a></code>
-<code><a href="https://nodejs.org/en/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"></a></code>
-<code><a href="https://docs.microsoft.com/pt-br/dotnet/csharp/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-vertical.svg"></a></code>
 
 <br/>
 <br/>
@@ -52,7 +51,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=GuilhermeAdias&show_icons=true&theme=tokyonight" alt="Pramod's Github Stats">
 </p> 
 
-</details>
+
  
 
 <div align="center">
