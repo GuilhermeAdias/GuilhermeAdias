@@ -59,10 +59,6 @@
 </div>
 
 <p align="center">
- <a href="https://www.linkedin.com/in/guilherme-abranches-dias-148215121/" target="blank">
-  <img align="center" alt="Guilherme's LinkedIn" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /> &nbsp; &nbsp;
- </a>
-
  <a href="https://www.instagram.com/gui_heisenbergd20" target="blank">
   <img align="center" alt="Guilherme's Instagram" width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" /> &nbsp; &nbsp;
  </a>
