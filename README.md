@@ -67,8 +67,8 @@
   <img align="center" alt="Guilherme's Twitter" width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" /> &nbsp; &nbsp;
  </a>
 
- <a href="https://www.freecodecamp.org/guiabranches" target="blank">
-  <img align="center" alt="Guilherme's FreCodeCamp" width="30px" src="https://raw.githubusercontent.com/gist/Deftwun/e3756a8b518cbb354425/raw/6584db8babd6cbc4ecb35ed36f0d184a506b979e/free-code-camp-logo.svg" />
+ <a href="https://dev.to/devheisenbergui" target="blank">
+  <img align="center" alt="Guilherme's Dev.To" width="30px" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" />
  </a> 
 
   <br/>
