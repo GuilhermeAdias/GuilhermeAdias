@@ -40,18 +40,21 @@
 
 ## 💡 I’m currently learning ...
 
-- **.Net 5**
-- **Angular 12**
-- **SOLID principles**
+- **Aws**
+- **.NET 6**
+- **Angular**
+- **ReactJs**
 
 <br/>
 <br/>
 
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=GuilhermeAdias&show_icons=true&theme=tokyonight" alt="Pramod's Github Stats">
-</p> 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=GuilhermeAdias&show_icons=true&theme=tokyonight" alt="Guilherme's Github Stats">
+</p>
 
-
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeADias&hide=html&layout=compact&theme=tokyonight" alt="Guilherme's Github Top Langs">
+</p>
  
 
 <div align="center">
