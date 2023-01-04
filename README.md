@@ -5,7 +5,7 @@
 
 
 <p align="left">
-	<em> I'm studying Information and Communication Technology at the <a href="http://www.faeterj-petropolis.edu.br/site/"><b>Faculty of Technological Education of the State of Rio de Janeiro - Petrópolis</b></a>. I've always been passionate about technology💜 and the internet of things (IoT), so I chose to stay in the world of development💚 and programming. In 2019 I participated in the <a href="http://serratec.org/residencia-de-software/"><b>Residência de Software</b></a> program <img src="https://github.com/GuilhermeAdias/GuilhermeAdias/blob/master/Assets/Rocket.gif" height="20px"/>, which aims to train new professionals for the development area in the mountainous region of Rio de Janeiro.</em>
+	<!--<em> I'm studying Information and Communication Technology at the <a href="http://www.faeterj-petropolis.edu.br/site/"><b>Faculty of Technological Education of the State of Rio de Janeiro - Petrópolis</b></a>. I've always been passionate about technology💜 and the internet of things (IoT),--> so I chose to stay in the world of development💚 and programming. <!--In 2019 I participated in the <a href="http://serratec.org/residencia-de-software/"><b>Residência de Software</b></a> program <img src="https://github.com/GuilhermeAdias/GuilhermeAdias/blob/master/Assets/Rocket.gif" height="20px"/>,--> which aims to train new professionals for the development area in the mountainous region of Rio de Janeiro.</em>
 
 <br/>
 	  
